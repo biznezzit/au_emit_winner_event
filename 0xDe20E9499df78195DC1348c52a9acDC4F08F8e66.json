@@ -1,0 +1,1 @@
+{"status":"1","message":"OK-Missing/Invalid API Key, rate limit of 1/5sec applied","result":"[{\"anonymous\":false,\"inputs\":[{\"indexed\":false,\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"name\":\"Winner\",\"type\":\"event\"},{\"inputs\":[],\"name\":\"attempt\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"}

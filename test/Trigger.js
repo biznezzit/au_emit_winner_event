@@ -8,7 +8,7 @@ describe("Trigger contract", function() {
 
     const [owner, otherAccount] = await ethers.getSigners();
 
-    const Trigger = await ethers.getContractFactory("Trigger");
+    const Trigger = await ethers.getContractFactory("contracts/Trigger.sol:Trigger");
     const trigger = await Trigger.deploy();
 
     const Contract = await ethers.getContractFactory("Contract");
